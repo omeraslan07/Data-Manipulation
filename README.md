@@ -16,7 +16,7 @@
     I've created a data manipulation cheatsheet by scanning tutorials, books etc. I will add as I see things that I think are useful.
     <br />
     <br />
-  <img src="assets/screenshot.png">
+  <img src="assets/screenshot1.png">
   <br />
   <br />
     <a href="https://github.com/github_username/repo_name">View Cheatsheet</a>
