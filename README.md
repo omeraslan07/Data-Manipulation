@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/baranacikgoz/Data-Manipulation">
-    ![ScreenShot](https://raw.github.com/baranacikgoz/Data-Manipulation/master/assets/screenshot.png)
+    ![ScreenShot](https://github.com/baranacikgoz/Data-Manipulation/blob/master/assets/screenshot.png)
   </a>
 
   <h3 align="center">Data Manipulation Cheatsheet</h3>
