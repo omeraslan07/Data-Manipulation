@@ -32,11 +32,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  
+  <h3 align="center">Data Manipulation Cheatsheet</h3>
+  
   <a href="https://github.com/baranacikgoz/Data-Manipulation">
     <img src="assets/screenshot.png">
   </a>
-
-  <h3 align="center">Data Manipulation Cheatsheet</h3>
 
   <p align="center">
     I've created a data manipulation cheatsheet by scanning tutorials, books etc. I will add as I see things that I think are useful.
