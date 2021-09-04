@@ -30,10 +30,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   
-  <h3 align="center">Data Manipulation Cheatsheet</h3>
+  <h2 align="center">Data Manipulation Cheatsheet</h2>
 
   <a>
     <img src="assets/screenshot.png">
