@@ -34,8 +34,8 @@
 <p align="center">
   
   <h3 align="center">Data Manipulation Cheatsheet</h3>
-  
-  <a href="https://github.com/baranacikgoz/Data-Manipulation">
+
+  <a>
     <img src="assets/screenshot.png">
   </a>
 
