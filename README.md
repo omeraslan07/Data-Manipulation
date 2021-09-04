@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/baranacikgoz/Data-Manipulation">
-    <img src="assets/screenshot.png" alt="Logo" width="80" height="80">
+    <img src="assets/screenshot.png">
   </a>
 
   <h3 align="center">Data Manipulation Cheatsheet</h3>
